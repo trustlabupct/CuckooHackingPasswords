@@ -4,7 +4,7 @@
 This project evaluates the effectiveness of various search algorithms to identify NTLM hash matches in a dataset composed of previously filtered password hashes from cyber attacks. The data used comprises two main files: **original.txt** and **extended.txt**.
 
 ## Authors
-The original programs have been modified by Antonio Villafranca Albaladejo to adjust both simulators to our research requirements.
+This activity is part of the project R&D&I Laboratory on Cybersecurity, Privacy, and Secure Communications (TRUST Lab) financed by European Union NextGeneration-EU, the Recovery Plan, Transformation and Resilience,through INCIBE.
 
 ## Prerequisites
 
